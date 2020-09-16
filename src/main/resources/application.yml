@@ -74,7 +74,7 @@ spring:
 api:
   url:
     cook: http://cook:8080
-    point: http://coupon:8080
+    point: http://point:8080
 
 logging:
   level:
